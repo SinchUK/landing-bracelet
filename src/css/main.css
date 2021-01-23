@@ -1,27 +1,118 @@
 * {
-    /* don't use '0px' or any other unit, if you set the value to zero */
-    padding: 0;
-    margin: 0;
-    border: 0;
+  /* don't use '0px' or any other unit, if you set the value to zero */
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+@font-face {
+  font-family: "28_Days_Later_Cyr"; /* Имя шрифта */
+  src: url("../fonts/28_Days_Later_Cyr.otf"); /* Путь к файлу со шрифтом */
+ }
+
+ @font-face {
+  font-family: "Courier10_Win95BT_Bold"; /* Имя шрифта */
+  src: url("../fonts/Courier10_Win95BT_Bold.ttf"); /* Путь к файлу со шрифтом */
+ }
+
+ @font-face {
+  font-family: "Arabella_Swash"; /* Имя шрифта */
+  src: url("../fonts/Arabella_Swash.ttf"); /* Путь к файлу со шрифтом */
+ }
+
+body {
+  width: 100%;
 }
 
 #wrap-centered {
-    width: 100%;
-    margin: 0 auto;
+  width: 100%;
+  margin: 0 auto;
+  width: 1400px;
 }
 
 nav {
-    width: 100%;
-    margin-top: 20px;
+  width: 100%;
 }
 
 nav ul {
-    list-style-type: none;
-    float: right;
-    margin-right: 20px;
+  list-style-type: none;
+  float: right;
+  margin-right: 20px;
 }
 
 nav li {
-    display: inline;
-    color: ##08c;
+  display: inline;
+  color: #08c;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+footer p {
+  text-align: center;
+}
+
+.menu {
+  height: 60px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  width: 900px;
+  margin: 0 auto;
+}
+.logo{
+  width: 100%;
+  font-size: 45px;
+  color: brown;
+  font-family: "28_Days_Later_Cyr";
+  font-weight: 400;
+}
+
+.menu_items li {
+  padding: 10px 20px;
+}
+
+.menu_items li a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid brown;
+  border-top: 1px solid brown;
+}
+
+.menu_items li a:hover {
+  color: brown;
+}
+
+.section_1 {
+  background-image: url(../img/section_1_bg.webp);
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: center;
+  display: flex;
+  padding-top: 200px;
+  justify-content: flex-end;
+}
+
+.section_1_content {
+  width: 350px;
+  margin-right: 50px;
+}
+
+.section_1_content header {
+  text-align: center;
+}
+
+.section_1_content header h2 {
+  font-family: "Arabella_Swash";
+  font-size: 55px;
+  color: white;
+}
+
+.section_1_content header p {
+  font-family: "Courier10_Win95BT_Bold";
+  font-size: 20px;
+  color: white;
 }
