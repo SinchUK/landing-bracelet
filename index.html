@@ -13,9 +13,10 @@
 
 <body>
   <div id="wrap-centered">
+    
     <header class="menu">
       <div class="logo">
-        <span>Бранзолє́та</span>
+        <a href="/">Бранзолє́та</a>
       </div>
       <nav>
         <ul class="menu_items">
@@ -32,7 +33,7 @@
 
           <div class="section_1_content">
             <header>
-              <h2>Підкресли свій стиль!</h2>
+              <h2>Додай стилю!</h2>
               <!-- <p>Вінтаж</p> -->
             </header>
             <!-- <p>Зручний чоловічий браслет</p> -->
@@ -51,7 +52,7 @@
             <div class="section_3_item">
               <div class="section_3_item_header">
                 <div class="section_3_item_text">
-                  <h2>Нова колекція</h2>
+                  <h2>Тобі пасує</h2>
                 </div>
                 <button>Купити</button>
               </div>
@@ -64,7 +65,7 @@
             <div class="section_3_item">
               <div class="section_3_item_header">
                 <div class="section_3_item_text">
-                  <h2>Нова колекція</h2>
+                  <h2>Чудовий дизайн</h2>
                 </div>
                 <button>Купити</button>
               </div>
@@ -77,6 +78,15 @@
           </div>
 
           <div class="section_3_items">
+
+            <div class="section_3_item extra_item_for_mobile">
+              <div class="section_3_item_header">
+                <div class="section_3_item_text">
+                  <h2>Елегантність</h2>
+                </div>
+                <button>Купити</button>
+              </div>
+            </div>
             
             <div class="section_3_item video_position">
               <video id="promo" width="350" height="350" controls>
@@ -88,7 +98,7 @@
               </div>
             </div>
 
-            <div class="section_3_item">
+            <div class="section_3_item remove_block_for_mobile">
               <div class="section_3_item_header">
                 <div class="section_3_item_text">
                   <h2>Нова колекція</h2>
@@ -97,11 +107,11 @@
               </div>
             </div>
 
-            <div class="section_3_item">
+            <div class="section_3_item remove_block_for_mobile">
               <img src="src/img/bracelet_1.webp">
             </div>
 
-            <div class="section_3_item">
+            <div class="section_3_item remove_block_for_mobile">
               <div class="section_3_item_header">
                 <div class="section_3_item_text">
                   <h2>Нова колекція</h2>
@@ -131,7 +141,7 @@
         </div>
 
         <div  class="section_4_items section_4_second_block">
-          <div onmouseover="showText(event)" class="section_4_item">
+          <div class="section_4_item">
             <img src="src/img/detail_1.jpg">
             <p>високоякісний сплавний матеріал<br><small>Периметр: 17-26см</small></p>
           </div>
@@ -157,10 +167,45 @@
 
     <section>
       <div class="section_5">
-        <button>КУПИТИ</button>
+        <button id="buy_button">КУПИТИ</button>
       </div>
     </section>
 
+    <section>
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+          <div class="modal-header">
+            <span class="close">&times;</span>
+            <h4>Для замовлення вкажіть</h4>
+          </div>
+          <div class="modal-body">
+            <div id="send_form" class="show_form">
+              <form id="form" class="form" method="post" action="/send.php">
+                <div class="form__item">
+                  <input id="name" class="form__input" type="text" name="name" required>
+                  <label class="form__label">Ім'я</label>
+                </div>
+                <div class="form__item">
+                  <input id="phone_number" class="form__input" type="text" name="phone" required>
+                  <label class="form__label">Номер телефону<p class="example"> Формат: 38ХХХХХХХХХХ</p></label>
+                </div>
+                <input class="form__input btn" type="submit" value="Оформити замовлення">
+                <input type="hidden" name="act" value="order">
+              </form>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <h3 id="footer_modal"></h3>
+          </div>
+        </div>
+
+      </div>
+  
+    </section>
+
+  
     <footer>
       
       <hr>
