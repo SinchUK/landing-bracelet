@@ -4,7 +4,7 @@
 $token = "1682794481:AAHgqa6d99n3no0FSQjt68DPw9cDy3R49Qs";
 
 //Сюда вставляем chat_id
-$chat_id = "262557147";
+$chat_id = "-552716801";
 
 //Определяем переменные для передачи данных из нашей формы
 if ($_POST['act'] == 'order') {
@@ -27,12 +27,16 @@ if ($_POST['act'] == 'order') {
 
 //Выводим сообщение об успешной отправке
     if ($sendToTelegram) {
-        alert('Спасибо! Ваша заявка принята. Мы свяжемся с вами в ближайшее время.');
+        // alert('Спасибо! Ваша заявка принята. Мы свяжемся с вами в ближайшее время.');
+        // echo '<script>alert("Welcome to Geeks for Geeks")</script>';
+        // header('Location: ' . $_SERVER["http://www.branzoleta.store"] );
+        header("Location: http://www.branzoleta.store");
+        exit; 
     }
 
 //А здесь сообщение об ошибке при отправке
     else {
-        alert('Что-то пошло не так. ПОпробуйте отправить форму ещё раз.');
+      echo '<script>alert("Что-то пошло не так. ПОпробуйте отправить форму ещё раз.")</script>';
     }
 }
 
