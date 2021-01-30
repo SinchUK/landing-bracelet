@@ -30,8 +30,46 @@ if ($_POST['act'] == 'order') {
         // alert('Спасибо! Ваша заявка принята. Мы свяжемся с вами в ближайшее время.');
         // echo '<script>alert("Welcome to Geeks for Geeks")</script>';
         // header('Location: ' . $_SERVER["http://www.branzoleta.store"] );
-        header("Location: http://www.branzoleta.store");
-        exit; 
+        
+        echo "
+            <div style='
+                    background-image:url(./src/img/section_1_bg.webp);
+                    background-size: cover;
+                    background-position: center;
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100%;'>
+                <!-- Modal content -->
+                <div style='
+                        width: 300px;    
+                        display: flex;
+                        justify-content: center;
+                        flex-direction: column;
+                        align-items: center;
+                        font-size: 17px;
+                        border: 1px solid black;
+                        padding: 5px;
+                        border-radius: 5px;
+                        background-color: white;
+                        text-align: center'>
+                    <div class='modal-header'>
+                        <h4>Дякуємо!</h4>
+                    </div>
+                    <div>
+                        <div>
+                            <img style='width: 200px;' src='./src/img/delivery.jpg' alt='#'>
+                            <p>Нажаль... товар не залишився у наявності. Ми повідомимо Вас за Вашим номером телефону, коли з'явиться.</p>
+                        </div>
+                    </div>
+                    <div class='modal-footer'>
+                        <button style='padding: 20px 10px;background-color: #976544'>На головну</button>
+                    </div>
+                </div>
+            </div>";
+        // header("Location: http://www.branzoleta.store");
+        // exit; 
     }
 
 //А здесь сообщение об ошибке при отправке

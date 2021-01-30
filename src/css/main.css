@@ -100,7 +100,7 @@ footer p {
 
 .section_1 {
   background-image: url(../img/section_1_bg.webp);
-  height: 930px;
+  height: 600px;
   background-repeat: no-repeat;
   background-size: 100%;
   background-position-y: center;
@@ -284,12 +284,13 @@ video::-webkit-media-controls {
 }
 
 .section_5 {
-  padding: 60px 0px;
+  padding: 20px 0px;
   text-align: center;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .section_5 button {
@@ -309,6 +310,12 @@ video::-webkit-media-controls {
   cursor: pointer;
   outline: none;
   }
+
+#price {
+  padding: 5px;
+  font-family: "Roboto";
+  color:#976544
+}
 
 .section_5 button:hover {
   background-color: #976544;
@@ -345,6 +352,28 @@ video::-webkit-media-controls {
   font-family: "AvantGardeC";
   color:  #976544;
 }
+
+.bottom_menu {
+  width: 100%;
+}
+
+.bottom_menu ul {
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px;
+}
+
+.bottom_menu ul li {
+  list-style: none;
+  padding: 5px 20px;
+}
+
+.bottom_menu ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+
 
 /* The Modal (background) */
 .modal {
@@ -472,7 +501,7 @@ footer hr {
 
 footer p {
   position: relative;
-  top:38%;
+  margin-top: 30px;
 }
 
 .extra_item_for_mobile {
@@ -507,14 +536,6 @@ footer p {
   .remove_block_for_mobile {
     display: none;
   }
-
-  /* .section_4_item:nth-child(2) {
-    margin-left: 0px;
-  }
-  
-  .section_4_item:nth-child(3) {
-    margin-left: 0px;
-  } */
 
   .menu {
     width: 100%;
@@ -610,6 +631,10 @@ footer p {
     max-width: 290px;
   }
 
+  .section_6 {
+    padding: 60px 0px;
+  }
+
   #promo {
     width: 300px;
   }
@@ -631,6 +656,11 @@ footer p {
 
 }
 
-@media screen and (max-width: 425px) {
-
+@media screen and (max-width: 320px) {
+  .section_4_item:nth-child(3) {
+    margin-left: 30px;
+  }
+  .section_4_item:nth-child(2) {
+    margin-left: 30px;
+  }
 }
