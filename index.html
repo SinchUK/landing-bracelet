@@ -9,6 +9,24 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <title>Landing Page</title>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '535181400764117');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=535181400764117&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
 </head>
 
 <body>
@@ -20,9 +38,9 @@
       </div>
       <nav>
         <ul class="menu_items">
-          <li><a href="/">Про нас</a></li>
-          <li><a href="/">Інформація</a></li>
-          <li><a href="/">Контакти</a></li>
+          <li><a id="home" href="/">Головна</a></li>
+          <li><a href="#promo_video">Огляд моделі</a></li>
+          <li><a href="#details_description">Деталі</a></li>
         </ul>
       </nav>
     </header>
@@ -34,9 +52,7 @@
           <div class="section_1_content">
             <header>
               <h2>Додай стилю!</h2>
-              <!-- <p>Вінтаж</p> -->
             </header>
-            <!-- <p>Зручний чоловічий браслет</p> -->
           </div>
 
       </article>
@@ -59,7 +75,7 @@
             </div>
 
             <div class="section_3_item">
-              <img src="src/img/bracelet_2.webp">
+              <img src="src/img/bracelet_2.webp" alt="#">
             </div>
 
             <div class="section_3_item">
@@ -72,7 +88,7 @@
             </div>
 
             <div class="section_3_item">
-              <img src="src/img/bracelet_1.webp">
+              <img src="src/img/bracelet_1.webp" alt="#">
             </div>
 
           </div>
@@ -88,9 +104,9 @@
               </div>
             </div>
             
-            <div class="section_3_item video_position">
+            <div id="promo_video" class="section_3_item video_position">
               <video id="promo" width="350" height="350" controls>
-                <source src="/src/img/promo.mp4" type="video/mp4">
+                <source src="/src/img/promo.mp4" type="video/mp4" alt="#">
                 Your browser does not support the video tag.
               </video>
               <div id="play" onclick="playVid()" class="video_play">
@@ -108,7 +124,7 @@
             </div>
 
             <div class="section_3_item remove_block_for_mobile">
-              <img src="src/img/bracelet_1.webp">
+              <img src="src/img/bracelet_1.webp" alt="#">
             </div>
 
             <div class="section_3_item remove_block_for_mobile">
@@ -127,34 +143,62 @@
 
     </section>
     
-    <div class="divide_line">
-      <hr class="line">
-    </div>
+    <section>
+
+      <div class="section_6">
+        
+        <div class="section_6_header">
+          <h3>Чому замовляють у нас?</h3>
+        </div>
+        
+        <div class="section_6_items">
+          <div class="section_6_item">
+            <img src="./src/img/feature_icon_1.svg" alt="#">
+            <h4>Оплата при отриманні товару</h4>
+          </div>
+          <div class="section_6_item">
+            <img src="./src/img/feature_icon_2.svg" alt="#">
+            <h4>Швидкість обробки замовлення</h4>
+          </div>
+          <div class="section_6_item">
+            <img src="./src/img/feature_icon_3.svg" alt="#">
+            <h4>Доставка 1-2 дні</h4>
+            <p>Нова пошта</p>
+          </div>
+          <div class="section_6_item">
+            <img src="./src/img/feature_icon_4.svg" alt="#">
+            <h4>До кожного замовлення - подарунок</h4>
+          </div>
+        </div>
+        
+      </div>
+
+    </section>
 
     <section>
 
-      <div class="section_4">
+      <div id="details_description" class="section_4">
 
         <div class="section_4_items section_4_first_block">
-          <img src="./src/img/bracelet.jpg">
+          <img src="./src/img/bracelet.jpg" alt="#">
           <p>Вага 20гр.</p>
         </div>
 
         <div  class="section_4_items section_4_second_block">
           <div class="section_4_item">
-            <img src="src/img/detail_1.jpg">
+            <img src="src/img/detail_1.jpg" alt="#">
             <p>високоякісний сплавний матеріал<br><small>Периметр: 17-26см</small></p>
           </div>
           <div class="section_4_item">
-            <img src="src/img/detail_2.jpg">
+            <img src="src/img/detail_2.jpg" alt="#">
             <p>дерев'яна намистина<br><small>Периметр: 16см</small></p>
           </div>
           <div class="section_4_item">
-            <img src="src/img/detail_3.jpg">
+            <img src="src/img/detail_3.jpg" alt="#">
             <p>якісний PU матеріал<br><small>Периметр: 18-26см</small></p>
           </div>
           <div class="section_4_item">
-            <img src="src/img/detail_4.jpg">
+            <img src="src/img/detail_4.jpg" alt="#">
             <p>Периметр: 18-27см</p>
           </div>
         </div>
@@ -162,8 +206,6 @@
       </div>
 
     </section>
-    
-    
 
     <section>
       <div class="section_5">
@@ -205,7 +247,25 @@
   
     </section>
 
-  
+    <div id="myModal_2" class="modal">
+      <!-- Modal content -->
+      <div class="modal-content">
+        <div class="modal-header">
+          <span class="close">&times;</span>
+          <h4>Дякуємо!</h4>
+        </div>
+        <div class="modal-body">
+          <div>
+            <img src="./src/img/smile.png" alt="#"">
+            <p>Нажаль... товар не залишився у наявності. Ми повідомимо Вас за Вашим номером телефону, коли з'явиться.</p>
+          </div>
+        </div>
+        <div class="modal-footer">
+            <h3></h3>
+        </div>
+      </div>
+    </div>
+
     <footer>
       
       <hr>

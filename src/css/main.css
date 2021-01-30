@@ -90,6 +90,10 @@ footer p {
   padding: 5px;
 }
 
+#home {
+  color: #947373;
+}
+
 .menu_items li a:hover {
   color:#976544;;
 }
@@ -313,6 +317,34 @@ video::-webkit-media-controls {
   transform: translateY(-7px);
 }
 
+.section_6 {
+  padding: 120px 0px;
+}
+
+.section_6_header {
+  display: flex;
+  justify-content: center;
+  font-family: "AvantGardeC";
+  font-size: 46px;
+  padding: 10px;
+}
+
+.section_6_items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.section_6_item {
+  text-align: center;
+  border: 1px solid #976544;
+  padding: 35px;
+  margin-top: 100px;
+  width: 220px;
+  margin: 20px 15px 20px;
+  font-family: "AvantGardeC";
+  color:  #976544;
+}
 
 /* The Modal (background) */
 .modal {
@@ -356,9 +388,6 @@ video::-webkit-media-controls {
   font-family: "AvantGardeC";
   font-weight: 100;
 }
-
-/* Modal Body */
-/* .modal-body {padding: 2px 16px;} */
 
 /* Modal Footer */
 .modal-footer {
@@ -464,13 +493,28 @@ footer p {
   }
 
   .section_4_second_block {
-    width: 400px;
+    width: 100%;
     flex-direction: column;
+  }
+
+  .section_4_item {
+    margin-left: 0px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 5px;
   }
 
   .remove_block_for_mobile {
     display: none;
   }
+
+  /* .section_4_item:nth-child(2) {
+    margin-left: 0px;
+  }
+  
+  .section_4_item:nth-child(3) {
+    margin-left: 0px;
+  } */
 
   .menu {
     width: 100%;
@@ -547,15 +591,13 @@ footer p {
     flex-direction: column;
   }
 
-  .section_4_second_block {
-    width: 100%;
-    padding-left: 10px;
-  }
-
   .section_4_first_block img {
     max-width: 310px;
   }
 
+  .section_6_header {
+    font-size: 19px;
+  }
 
 }
 
@@ -576,11 +618,6 @@ footer p {
     height: 300px;
   }
 
-  .section_4_second_block {
-    width:100%;
-    justify-content: center;
-  }
-
   .section_4_item {
     width:250px;
   }
@@ -588,14 +625,12 @@ footer p {
   .section_4_second_block {
     display: flex;
     align-items: center;
+    justify-content: center;
+    /* width: 300px; */
   }
 
-  .section_4_item:nth-child(2) {
-    margin-left: 35px;
-  }
+}
 
-  .section_4_item:nth-child(3) {
-    margin-left: 35px;
-  }
+@media screen and (max-width: 425px) {
 
 }

@@ -1,0 +1,555 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="UTF-8">
+    <title>Iconizer.net | ico бесплатные иконки</title>
+    <!--[if IE]>
+    <link rel="stylesheet" href="css/ie.css">
+    <![endif]-->
+	<link rel="stylesheet" href="https://icons8.com/preloaders/css/og-header.css" />
+    <link rel="stylesheet" href="/iconizer/css/style.css" />
+    <link rel="shortcut icon" href="/iconizer/images/favicon.ico" />
+    <link rel="apple-touch-icon" href="/iconizer/images/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/iconizer/images/apple-touch-icon-iphone4.png" />
+	<link rel="canonical" href="https://icons8.com/iconizer/ru/search/No-license-filtering/0-512/533/ico" />
+	<meta name="viewport" content="width=980">
+	<meta name="description" content="Free icons maker and search engine">
+	<meta name="keywords" content="icons generator, icons maker software, icons creator, create icons, search icons, find icons, download icons, free icons">
+	<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/css3-mediaqueries.min.js"></script>
+    <![endif]-->
+	<script type="text/javascript" src="/iconizer/langs/rujs.php"></script>
+	<script type="text/javascript">
+		var keywords='ico';
+		var page='533';
+		var siteLang='ru';
+		var genDomain='https://icons8.com/iconizer';
+		var frg='000000';
+		var rotateAngle=0;
+		var totalResults=26633;
+		var license='No-license-filtering';
+		var maxIcons=30;
+		var redirectOnLogout=false;
+	</script>
+    <script src="/iconizer/js/jquery-1.7.2.min.js"></script>
+	<!--script src="js/jquery.easing.1.3.js"></script-->
+	<script src="/iconizer/js/jquery-ui-1.8.21.custom.min.js"></script>
+	<script src="/iconizer/js/jquery.slider.min.js"></script>
+	<!--script src="/iconizer/js/jquery.core-ui-select.js"></script-->
+	<script src="/iconizer/js/jquery.imageLens.js"></script>
+	<script src="/iconizer/js/jQueryRotate.js"></script>
+	
+	<script type="text/javascript" src="/iconizer/colorpicker/colorpicker.js"></script>
+	<link rel="stylesheet" href="/iconizer/colorpicker/colorpicker.css" type="text/css" />
+	
+	<script src="/iconizer/js/canvas_editor.js"></script>
+	<script type="text/javascript">
+	var adblock = false;
+	var allowAd=false;	</script>
+	<script src="/iconizer/js/common.js"></script>
+		<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-38549994-1', 'auto');
+	ga('send', 'pageview');
+
+	</script>
+</head>
+<body>
+<!-- BuySellAds Ad Code -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = '//s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<!-- End BuySellAds Ad Code -->
+<div id="lens" class="little-shadow"></div>
+<div id="overlay"></div>
+<div class="addToCartG"></div>
+<div id="wrapper">
+	<header id="header">
+    	<nav id="nav">
+        	<ul class="main-menu">
+            	<li>
+                	<a href="/iconizer/ru/free_icons">Список иконок</a>
+                </li>
+            	<li>
+                	<a href="/iconizer/ru/free_icons">Список иконок</a>
+                </li>
+                <li>
+                	<a href="/iconizer/ru/submit_icons">Добавить иконки</a>
+                </li>
+                <li>
+                	<a href="/iconizer/ru/users-manual">Руководство</a>
+                </li>
+                <li>
+                	<a href="/iconizer/ru/terms-of-use">Условия пользования</a>
+                </li>
+                <li>
+                	<a href="/iconizer/ru/icons-store">Магазин</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="header-right">
+        <!--    <a href="javascript:;" id="loginForm" class="right loginForm ">Войти / Регистрация</a>
+            <a href="javascript:;" id="logout" class="right logout displaynone"> Выйти</a>  -->
+            <a href="/iconizer/ru/profile" id="profile" class="right profile displaynone">Личный кабинет &nbsp;&nbsp; </a>
+			<div class="shopping_cart"></div>
+        </div>
+		<div class="mini_search">
+			<form method="get" action="/iconizer/" id="miniSearchForm">
+			<input type="hidden" name="lang" value="ru" />
+			<input type="hidden" name="category" value="search" />
+			<input type="hidden" name="page" value="1" />
+				<a href="/iconizer/ru" id="logo" class="mini_logo"></a>
+				<input id="search-field-small" class="search-field ui-autocomplete-input mini_search_field" type="search" x-webkit-speech="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" value="ico" /><input class="button search-button ui-button ui-widget ui-state-default ui-corner-all very_small" type="submit" value="Поиск" role="button" aria-disabled="false">
+				
+				<div class="left" style="font-size:12px; margin-top:-5px;">
+				<div class="bckg custom little-shadow"></div><div class="bckg transp little-shadow"></div><div class="bckg black little-shadow"></div><div class="bckg white little-shadow"></div>
+					<div class="fast-search"> <div class="zoom"><div class="zoom_out"></div><div class="zoom_in"></div><div class="zoom_level" style="margin-top:-8px">x0</div></div></div>
+					<div class="fast-search" style="height:20px; margin-top:-5px;">
+					<div class="b-core-ui-select__wrapper" style="width:200px; height:20px;">
+						<input type="hidden" id="licenseSelectMini" name="license" value="No-license-filtering" />
+						<div class="select_type b-core-ui-select" style="height:25px;margin-top:-10px; padding:0; background-position:right 15px">Бесплатно для комм. проектов (без ссылки)</div>
+						<div id="typesDiv" class="types_div b-core-ui-select-options">
+							<div class="option" title="No-license-filtering" style="line-height:25px">Все виды лицензий</div>
+							<div class="option" title="Free-for-commercial-use" style="line-height:25px">Бесплатно для комм. проектов</div>
+							<div class="option" title="Free-for-commercial-use-no-link" style="line-height:25px">Бесплатно для комм. проектов (без ссылки)</div>
+						</div>
+					</div></div><div class="fast-search">
+					<div class="form-data" style="width:150px; margin:16px 10px 0 35px;">
+						<input class="range-select-mini" type="slider" name="dimensions" id="icon-size-mini" value="0;512">
+					</div>
+				</div>
+				</div>
+			</form>
+		</div>
+    </header>
+    <div id="content" class="front-page-content">
+	<div class="what-is-generator dialog_box" style="display:none">
+		<h2>Что такое генератор иконок?</h2>
+		<img src="/iconizer/images/manual/what_is_generator_ru.png" alt="Что такое генератор иконок?" />
+	</div>
+	<div class="login-form dialog_box" style="display:none">
+<div class="login-registration">
+	<section class="login-box">
+		<h2>Войти в систему</h2>
+		<small id="passwordSent" class="displaynone">Мы отправили новый пароль на Ваш адрес эл. почты</small>
+		<div class="form">
+			<form action="/iconizer/" class="form-signin" novalidate>
+				<div class="form-row">
+					<label for="login-email">Эл. почта</label>
+					<input type="email" id="login-email" name="login-email" />
+					<div class="form_error login_email_error">Нет пользоватля с таким адресом</div>
+				</div>
+				<div class="form-row">
+					<label for="login-password">Пароль</label>
+					<input type="password" id="login-password" name="login-password">
+					<div class="form_error login_pass_error">Неравильный пароль</div>
+				</div>
+				<div class="form-row">
+					<button type="submit" class="button b-button">Войти</button> <img src="/iconizer/images/dialogbox_loader.gif" class="loader signin_loader" alt="loading" />
+					<div style="margin-top:10px"><a href="javascript:;" id="showForgotPassword">Забыли пароль?</a></div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<section class="forgot-box displaynone">
+		<h2>Забыли пароль?</h2>
+		<div class="form">
+			<small id="confirmationSent" class="displaynone">Мы выслали Вам код подтверждения. Пожалуйста введите его в поле ниже</small>
+			<form action="/iconizer/" class="form-forgot" novalidate>
+				<div class="form-row">
+					<label for="forgot-email">Эл. почта</label>
+					<input type="email" id="forgot-email" name="forgot-email" />
+					<div class="form_error forgot_email_error">Нет пользоватля с таким адресом</div>
+				</div>
+				<div class="form-row forgot-confirm displaynone">
+					<label for="forgot-code">Код подтверждения</label>
+					<input type="text" id="forgot-code" name="forgot-code">
+					<div class="form_error forgot_code_error">Введен неправильный код</div>
+				</div>
+				<div class="form-row">
+					<button type="submit" class="button b-button">Сменить пароль</button> <img src="/iconizer/images/dialogbox_loader.gif" class="loader forgot_loader" alt="loading" />
+					<div style="margin-top:10px"><a href="javascript:;" id="showSignIn">Войти</a></div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<section class="registration-box">
+		<h2>Регистрация</h2>
+		<div class="form">
+			<form action="/iconizer/" class="form-signup" novalidate>
+				<div class="main_reg_form">
+					<div class="form-row reg-email-row">
+						<label for="reg-email">Эл. почта</label>
+						<input type="email" id="reg-email" name="reg-email">
+						<div class="form_error reg_email_error">Неправильный e-mail</div>
+					</div>
+					<div class="form-row reg-password-row">
+						<label for="reg-password">Пароль</label>
+						<input type="password" id="reg-password" name="reg-password">
+						<div class="form_error reg_pass_error">-</div>
+					</div>
+				</div>
+				<div class="confirmation displaynone">
+					<div class="form-row confirmation">
+						<small id="confirmationText" class="displaynone">Мы выслали код подтверждения выслан на Ваш адрес эл. почты. Пожалуйста введите его для подтверждения<br /></small>
+						<label for="confirmation-code">Код подтверждения</label>
+						<input type="text" id="confirmation-code" name="confirmation-code">
+						<div class="form_error reg_confirmation_error">Введен неправильный код.</div>
+					</div>
+				</div>
+				<div class="form-row">
+					<button type="submit" class="button b-button register-button">Зарегистрироваться</button>
+					<button type="submit" class="button b-button confirm-button displaynone">Подтвердить</button> 
+					<img src="/iconizer/images/dialogbox_loader.gif" class="loader reg_loader" alt="loading" />
+					<div style="margin-top:10px"><a href="#" class="no-confirmation-arrived-show">Код не пришел?</a></div>
+					<div style="margin-top:10px"><a href="#" class="enter-confirmation-show">Ввести код подтверждения</a></div>
+					<div style="margin-top:10px; font-size:12px;">Нажимая на кнопку "Зарегистрироваться", Вы автоматически принимаете наши <a href="/iconizer/ru/terms-of-use">условия пользования</a>.</div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<section class="enter-confirmation-box displaynone">
+		<h2>Введите код подтверждения</h2>
+		<div class="form">
+			<form action="/iconizer/" class="form-confirm" novalidate>
+				<div class="form-row confirm-email-row">
+					<label for="confirm-email">E-mail</label>
+					<input type="email" id="confirm-email" name="confirm-email">
+					<div class="form_error confirm_email_error">Неправильный e-mail</div>
+				</div>
+				<div class="form-row confirmation">
+					<label for="reconfirmation-code">Код подтверждения</label>
+					<input type="text" id="reconfirmation-code" name="reconfirmation-code">
+					<div class="form_error reconfirm_code_error">Введен неправильный код.</div>
+				</div>
+				<div class="form-row">
+					<button type="submit" class="button b-button confirm-button">Подтвердить</button> 
+					<img src="/iconizer/images/dialogbox_loader.gif" class="loader confirm_loader" alt="loading" />
+					<div style="margin-top:10px"><a href="#" class="registration-form-show">Форма регистрации</a></div>
+					<div style="margin-top:10px"><a href="#" class="no-confirmation-arrived-show">Код не пришел?</a></div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<section class="resend-confirmation-box displaynone">
+		<h2>Выслать код заново</h2>
+		<div class="form">
+			<form action="/iconizer/" class="form-resend-confirmation" novalidate>
+				<div class="form-row">
+					<label for="resend-email">E-mail</label>
+					<input type="email" id="resend-email" name="resend-email">
+					<div class="form_error resend_error">-</div>
+				</div>
+				<div class="form-row">
+					<button type="submit" class="button b-button resend-code-button">Выслать код заново</button> 
+					<img src="/iconizer/images/dialogbox_loader.gif" class="loader resend_loader" alt="loading" />
+					<div style="margin-top:10px"><a href="#" class="registration-form-show">Форма регистрации</a></div>
+					<div style="margin-top:10px"><a href="#" class="enter-confirmation-show">Введите код подтверждения</a></div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<section class="social-login-box">
+			</section>
+</div>
+</div>
+<div class="collection_box dialog_box" style="display:none">
+	<div class="collection_descr">
+		<h2>Скачиваем всю коллекцию настройками пользователя</h2>
+		Эта коллекция содержит <strong>больше 30 иконок</strong>, поэтому мы разделили ее на несколько частей.  <br />Пожалуйста, скачивайте части коллекции по одной (Вам нужно дождаться окончания скачивания одной части до того как начать скачивать следующую).:
+	</div>
+	<div class="cart_descr">
+		<h2>Скачиваем иконки с корзины</h2>
+		Ваша корзина содержит <strong>больше 30 иконок</strong>, поэтому мы разделили ее на несколько частей.  <br />Пожалуйста, скачивайте части набора иконок по одной (Вам нужно дождаться окончания скачивания одной части до того как начать скачивать следующую):
+	</div>
+	<div class="archives">
+	</div>
+	<div class="collection_info">
+		<h3>Дополнительная информация</h3><br />
+		Скачать иконки как:<br />
+		<strong id="info_download_as">Отдельные файлы</strong><br /><br />
+		<div id="info_sprites" class="displaynone">Тип изображения-спрайта:<br />
+		<strong id="info_sprites_type">.PNG</strong></div>
+	</div>
+</div>
+<div class="cart_box dialog_box" style="display:none">
+	<h2>Корзина скачиваемых иконок</h2>
+	<div class="cart_item cart_header">
+		<div class="cart_cell"><input type="checkbox" checked="checked" id="selectAllCart" /></div>
+		<div class="cart_cell">&nbsp;</div>
+		<div class="cart_cell"><div class="parameter type"></div><br />Тип</div>
+		<div class="cart_cell"><div class="parameter colorize"></div><br />Цвета</div>
+		<div class="cart_cell"><div class="parameter transparent"></div><br />Фон</div>
+		<div class="cart_cell"><div class="parameter foreground"></div><br />Цвет</div>
+		<div class="cart_cell"><div class="parameter background"></div><br />Цвет&nbsp;фона</div>
+		<div class="cart_cell"><div class="parameter hue"></div><br />Оттенок</div>
+		<div class="cart_cell"><div class="parameter saturation"></div><br />Насыщ.</div>
+		<div class="cart_cell"><div class="parameter lightness"></div><br />Яркость</div>
+		<div class="cart_cell"><div class="parameter icon_size"></div><br />Размер</div>
+		<div class="cart_cell"><div class="parameter flip"></div><br />Перев.</div>
+		<div class="cart_cell"><div class="parameter rotate"></div><br />Поворот</div>
+		<div class="cart_cell"></div>
+	</div>
+	<div class="cart_items">
+				
+	</div>
+	<input type="button" class="button clear_cart left small" value="Удалить все" style="margin-top:23px; margin-right:10px;" />
+	<input type="button" class="button clear_cart_selected left small" value="Удалить выбранные" style="margin-top:23px" />
+	<input type="button" class="button download_cart right" style="margin-left:20px; margin-top:20px;" value="Скачать" />
+	<input type="button" class="button download_cart_selected right" style="margin-left:20px; margin-top:20px;" value="Скачать выбранные" />
+	<div class="right download_options">
+		<table>
+			<tr>
+				<td>Формат файла:<br />
+				<div style="position:relative; display:none;" id="spritesTypeWrapper">
+					<div class="b-core-ui-select__wrapper" style="width:70px; margin:0; position:absolute; right:0; top:0;">
+						<input type="hidden" id="spritesTypeId" value=".PNG" />
+						<div class="sprites_select_type b-core-ui-select">.PNG</div>
+						<div id="spritesTypesDiv" class="types_div b-core-ui-select-options" style="top:-112px; padding-top:3px">
+							<div class="option" title=".JPEG">.JPEG</div>
+							<div class="option" title=".PNG">.PNG</div>
+							<div class="option" title=".GIF">.GIF</div>
+							<div class="option" title=".BMP">.BMP</div>
+						</div>
+					</div>
+				</div>
+				</td>
+				<td>
+					<input type="radio" name="download_options" value="1" id="downloadOptions1" checked="checked" /><label for="downloadOptions1"> Отдельные файлы</label><br />
+					<input type="radio" name="download_options" value="2" id="downloadOptions2" /><label for="downloadOptions2"> Горизонтальный спрайт</label><br />
+					<input type="radio" name="download_options" value="3" id="downloadOptions3" /><label for="downloadOptions3"> Вертикальный спрайт</label>
+				</td>
+			</tr>
+		</table>
+		 
+	</div>
+</div>
+<div class="generator_dialog_box dialog_box" style="display:none">
+<div id="colorPickerRemover">
+	<div class="editing_in_cart">Редактирование иконки в корзине</div>
+	<div class="not_logged_in_message error displaynone">Загруженная иконка будет активна только на 10 минут после загрузки.<br />Пожалуйста, <a class="loginForm" href="javascript:;">войдите или зарегистрируйтесь</a> чтобы продлить этот период<div class="little_close">x</div></div>
+	<div class="preview_back"><div class="bckg1 transp little-shadow"></div><div class="bckg1 black little-shadow"></div><div class="bckg1 white little-shadow"></div><div class="bckg1 custom little-shadow"></div></div>
+    <table class="generator_table">
+        <tr>
+            <td><div class="parameter type"></div></td>
+            <td>Тип файла:</td>
+            <td>
+			<div id="testDiv" style="position:absolute; left:0;top:-20px; width:100px; height:20px; background:#FFF"></div>
+			<div class="b-core-ui-select__wrapper" style="width:127px">
+				<input type="hidden" id="typeId" value=".PNG" />
+				<div class="select_type b-core-ui-select">.PNG</div>
+				<div id="typesDiv" class="types_div b-core-ui-select-options">
+					<div class="option" title=".JPEG">.JPEG</div>
+					<div class="option" title=".PNG">.PNG</div>
+					<div class="option" title=".GIF">.GIF</div>
+					<div class="option" title=".BMP">.BMP</div>
+					<div class="option" title=".ICO">.ICO</div>
+				</div>
+			</div>
+            </td>
+			<td rowspan="12" style="vertical-align:top; padding-right:0">
+				<div id="how_to">
+				
+
+				<div class="m_loading_preview little-shadow" id="mLoadingDiv2">Загрузка...</div>
+				<div id="contentDiv2" class="">
+				</div>
+				<div class="download">
+					<input type="button" class="generate_button button small" value="Сохранить изменения" style="margin-right:10px;" id="saveInCart" /> <span id="saveOr" style="margin-right:10px;"></span>
+					<input type="button" class="generate_button button small" value="В корзину для скачивания" style="margin-right:10px" id="addToCart" /> 					<input type="button" class="download_button button" style="margin-left:10px" value="Скачать" />
+				</div>
+				
+				<div class="image_size" style="display:none">
+					Размер изображения: <span id="imageSizeSpan"></span>
+				</div>
+				<div class="generating_indicator little-shadow" id="generatingIndicator">
+					Создается...				</div>
+				</div>
+			</td>
+        </tr>
+        <tr>
+            <td><div class="parameter colorize"></div></td>
+            <td>Исходные цвета</td>
+            <td><div  class="yes_no settings"><input type="radio" name="colorize" value="0" id="colorizeId0"  /><label for="colorizeId0" style="margin-right:13px;"> Да</label><input type="radio" name="colorize" value="1" id="colorizeId1"  checked="checked" /><label for="colorizeId1"> Нет</label></td>
+        </tr>
+        <tr>
+            <td><div class="parameter transparent"><div class="parameter_overlay" id="transBackOverlay"></div></div> </td>
+            <td>Прозрачный фон:</td>
+            <td><div class="yes_no settings"><input type="radio" name="background_transp" value="1" id="transparentBackId1"  /><label for="transparentBackId1" class="empty_href" style="margin-right:13px;"> Да</label><input type="radio" name="background_transp" value="0" id="transparentBackId0"  /><label for="transparentBackId0"> Нет</label></div><div class="color_picker_holder">
+						<input style="display:none" size="8" class="color" value="" type="text" name="color" maxlength="7" id="colorId" /></div></td>
+        </tr>
+        <tr>
+            <td><div class="parameter foreground"><div class="parameter_overlay" id="foregroundOverlay"></div></div></td>
+            <td>Цвет переднего плана:</td>
+            <td id="foregroundTd"><input class="input_color" type="text" name="foreground" id="foregroundId" style="float:left" value="000000" />
+							<div class="color_picker_icon little-shadow" id="foregroundPreviewId"></div></td>
+        </tr>
+        <tr>
+            <td><div class="parameter background"><div class="parameter_overlay" id="backgroundOverlay"></div></div></td>
+            <td>Цвет фона:</td>
+            <td id="backgroundTd"><input class="input_color" type="text" name="background" id="backgroundId" style="float:left"  value="FFFFFF" />
+							<div class="color_picker_icon little-shadow" id="backgroundPreviewId"></div></td>
+        </tr>
+        <tr>
+            <td><div class="parameter hue"></div></td>
+            <td>Оттенок</td>
+            <td>
+				<div class="hueDiv">
+					<input class="hue" type="slider" name="hue" id="hue" value="0" />
+				</div>
+            </td>
+        </tr>
+        <tr>
+            <td><div class="parameter saturation"></div></td>
+            <td>Насыщенность</td>
+            <td>
+				<div class="saturationDiv">
+					<input class="saturation" type="slider" name="saturation" id="saturation" value="0" />
+				</div>
+            </td>
+        </tr>
+        <tr>
+            <td><div class="parameter lightness"></div></td>
+            <td>Яркость</td>
+            <td>
+				<div class="lightnessDiv">
+					<input class="lightness" type="slider" name="lightness" id="lightness" value="0" />
+				</div>
+            </td>
+        </tr>
+        <tr>
+            <td><div class="parameter icon_size"></div></td>
+            <td>Размер (px):<br />
+			<input type="checkbox" name="proportions" id="proportionsId1" checked="checked" /><label for="proportionsId1" style="font-size:10px; margin:0 0 0 4px"> Соблюдать пропорции</label>
+			</td>
+            <td style="padding-top:5px;"><div class="relative"><span class="width">Ширина:</span><span class="height">Высота:</span><br /><input type="text" class="icon_size_input"  name="width" size="2" id="widthId" value="128" /><div class="size_slider"></div><input type="text" class="icon_size_input" name="height" size="2" id="heightId" value="128" style="margin-left:23px" /></div></td>
+        </tr>
+        <tr>
+            <td><div class="parameter flip"></div></td>
+            <td>Перевернуть</td>
+            <td><div class="yes_no settings"><input type="checkbox" name="flip_hor" id="flipHor" /><label for="flipHor" style="margin-right:13px;"> Гор.</label><input type="checkbox" name="flip_vert" id="flipVert" /><label for="flipVert"> Верт.</label></td>
+        </tr>
+        <tr>
+            <td><div class="parameter rotate"></td>
+            <td>Угол поворота</td>
+            <td>
+				<div class="relative">
+                <input type="text" class="icon_size_input" name="rotate" size="2" style="margin:0 11px 0 0" value="0" id="rotateInput" /> <div class="rotation_slider"></div><div style="position:absolute; right:0px; top:0px"><img src="/iconizer/images/icon_preview.png" align="absmiddle" id="preview" /></div>
+				</div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="height:20px;"><a class="reset" id="resetSize">Сбросить размеры</a> <a class="reset" id="resetForm">Очистить форму</a></td>
+        </tr>
+        <!--tr>
+            <td colspan="3" style="text-align:center">
+				<input class="generate_button button search-button" type="button" value="" />
+			</td>
+			<td style="vertical-align:bottom;">
+			
+			</td>
+        </tr-->
+    </table>
+
+</div>
+</div>
+<form action="" class="form form-label-left" id="search-form"><input type="hidden" name="lang" value="ru" /><input type="hidden" name="category" value="search" /><input type="hidden" name="page" value="1" /><div class="top-search-bar">            <div id="logo">                <a href="/iconizer/ru">Iconizer</a>            </div>            <section class="search" id="search">                <input type="search" class="search-field" id="search-field" value="ico" x-webkit-speech /><input type="submit" class="button search-button-top" value="Поиск иконок">				<!--div style="position:absolute; left:620px; top:-7px;"><a href="https://delston-capital.com/en/" onclick="this.target='_blank'"><img src="/images/ads/468х60-1english.gif" alt="Our partner - delston-capital.com" /></a></div-->            </section>			            <!-- Search bar -->        </div>		<div class="info-wrapper"><div class="box-wrapper little-shadow info">	   		<div class="left" style="font-size:12px"><div class="bckg custom little-shadow"></div><div class="bckg transp little-shadow"></div><div class="bckg black little-shadow"></div><div class="bckg white little-shadow"></div>		<div class="fast-search"> <div class="zoom"><div class="zoom_out"></div><div class="zoom_in"></div><div class="zoom_level">x0</div></div><!--'.$w[116].' <select id="doZoom"><option value="0">'.$w[117].'</option><option value="2" '.($_SESSION['zoom']==2?'selected':'').'>&nbsp;&nbsp;x2&nbsp;&nbsp;&nbsp;</option><option value="3" '.($_SESSION['zoom']==3?'selected':'').'>&nbsp;&nbsp;x3&nbsp;&nbsp;&nbsp;</option><option value="4" '.($_SESSION['zoom']==4?'selected':'').'>&nbsp;&nbsp;x4&nbsp;&nbsp;&nbsp;</option></select--></div><div class="right" style="margin:5px 15px 0 0;"> </div>		<div class="fast-search" style="margin-right:100px;">		<div class="b-core-ui-select__wrapper" style="width:260px;">			<input type="hidden" name="license" id="licenseSelectTop" value="No-license-filtering" />			<div class="b-core-ui-select">Все виды лицензий</div>			<div class="b-core-ui-select-options">				<div class="option" title="No-license-filtering">Все виды лицензий</div>				<div class="option" title="Free-for-commercial-use">Разрешено для комм. целей</div>				<div class="option" title="Free-for-commercial-use-no-link">Разрешено для комм. целей (с ссылкой)</div>			</div>		</div>				<!--License <select id="license-select">				<option value="No-license-filtering">No license filtering</option>				<option value="Free-for-commercial-use">Free for commercial use</option>				<option value="Free-for-commercial-use-no-link">Free for commercial use (no link required)</option>		</select--></div><div class="fast-search">		<div class="left" style="margin:5px 0 0 0">Размер</div>		<div class="form-data" style="width:200px; margin:16px 10px 0 65px;">			<input class="range-select-top" type="slider" name="dimensions" id="icon-size-top" value="0;512">		</div></div></div>			<div class="clearer"></div></div></form> <div class="search_info">"<strong>ico</strong>"  - поиск иконок. Всего иконок <b>26633</b></div><div class="comm comm-728 top">
+		
+					<table>
+						<tr>
+							<td>
+<!-- AuctionX Display platform tag START -->
+<div id="22498x300x250x3838x_ADSLOT1" clickTrack="%%CLICK_URL_ESC%%"></div>
+<script type="text/javascript" async src="//served-by.pixfuture.com/www/delivery/headerbid.js" slotId="22498x300x250x3838x_ADSLOT1" refreshTime="5" refreshInterval="60"></script><!-- AuctionX Display platform tag END -->
+							</td>
+							<td>
+<!-- AuctionX Display platform tag START -->
+<div id="22498x300x250x3838x_ADSLOT2" clickTrack="%%CLICK_URL_ESC%%"></div>
+<script type="text/javascript" async src="//served-by.pixfuture.com/www/delivery/headerbid.js" slotId="22498x300x250x3838x_ADSLOT2" refreshTime="5" refreshInterval="60"></script><!-- AuctionX Display platform tag END -->
+							</td>
+							<td>
+<!-- AuctionX Display platform tag START -->
+<div id="22498x300x250x3838x_ADSLOT3" clickTrack="%%CLICK_URL_ESC%%"></div>
+<script type="text/javascript" async src="//served-by.pixfuture.com/www/delivery/headerbid.js" slotId="22498x300x250x3838x_ADSLOT3" refreshTime="5" refreshInterval="60"></script><!-- AuctionX Display platform tag END -->
+							</td>
+						</tr>
+					</table>
+					
+					
+	<a class="hidey" title=""></a>
+ </div>
+				<table border="0" width="100%"><tr><td id="iconsCell"><div id="pagingDiv"><div class="clearer" style="margin-top:20px"></div><a href="/iconizer/ru/search/No-license-filtering/0-512/1/ico" class="paging">&lt;&lt;&lt;</a><a href="/iconizer/ru/search/No-license-filtering/0-512/532/ico" class="paging previous" title="Ctrl + &larr;">&lt;</a><a href="/iconizer/ru/search/No-license-filtering/0-512/528/ico" class="paging">528</a><a href="/iconizer/ru/search/No-license-filtering/0-512/529/ico" class="paging">529</a><a href="/iconizer/ru/search/No-license-filtering/0-512/530/ico" class="paging">530</a><a href="/iconizer/ru/search/No-license-filtering/0-512/531/ico" class="paging">531</a><a href="/iconizer/ru/search/No-license-filtering/0-512/532/ico" class="paging">532</a><a href="/iconizer/ru/search/No-license-filtering/0-512/533/ico" class="paging active">533</a><div class="clearer" style="margin-top:20px"></div></div><script type="text/javascript">document.getElementById('pagingDiv').style.display="none";</script></div>
+							<div style="display:none">26633</div><div class="icon little-shadow white " id="icon88120" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/sleeping.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/sleeping.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/sleeping.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88121" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/smiling.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/smiling.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/smiling.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88122" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/sorry.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/sorry.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/sorry.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88123" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/spleeping.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/spleeping.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/spleeping.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88124" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/strange.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/strange.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/strange.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88125" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/strange_girl.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/strange_girl.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/strange_girl.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88126" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/surprised.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/surprised.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/surprised.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88127" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/surprised_girl.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/surprised_girl.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/surprised_girl.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88128" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/throw_up_wide_eyes.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/throw_up_wide_eyes.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/throw_up_wide_eyes.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88129" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/throwing_up.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/throwing_up.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/throwing_up.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88130" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/throwing_up_insanely.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/throwing_up_insanely.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/throwing_up_insanely.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88131" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/thrown_up.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/thrown_up.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/thrown_up.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88132" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/tongue.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/tongue.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/tongue.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88133" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/unconciously_happy.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/unconciously_happy.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/unconciously_happy.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88134" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/unhappy.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/unhappy.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/unhappy.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88135" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/unlikely.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/unlikely.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/unlikely.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88136" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/very_sadly_crying.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/very_sadly_crying.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/very_sadly_crying.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88137" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/very_scared.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/very_scared.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/very_scared.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88138" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/very_sick.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/very_sick.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/very_sick.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88139" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/very_unhappy.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/very_unhappy.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/very_unhappy.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88140" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/wink.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/wink.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/wink.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88141" style="width:512px; height:542px;" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/classic_smileys_set/orig/x_smile.png" title=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" alt=" смайлик смайлики эмотикон лицо голова эмоция эмоции человек люди" width="512" height="512" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:classic_smileys_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/classic_smileys_set/orig/x_smile.png</div><div class="cart_src">https://icons8.com/iconizer/files/classic_smileys_set/thumb/64/x_smile.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88162" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/blogger.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/blogger.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/blogger.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88163" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/facebook.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/facebook.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/facebook.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88164" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/googleplus.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/googleplus.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/googleplus.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88165" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/mailru.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/mailru.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/mailru.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88166" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/odnoklassniki.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/odnoklassniki.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/odnoklassniki.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88167" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/rss.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/rss.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/rss.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88168" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/skype.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/skype.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/skype.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88169" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/twitter.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/twitter.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/twitter.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88170" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/vkontakte.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/vkontakte.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/vkontakte.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88171" style="width:512px; height:542px;" title=" социальные сети голограмма лазер"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/hologram_social_icons/orig/yandex.png" title=" социальные сети голограмма лазер" alt=" социальные сети голограмма лазер" width="128" height="128" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:hologram_social_icons">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/hologram_social_icons/orig/yandex.png</div><div class="cart_src">https://icons8.com/iconizer/files/hologram_social_icons/thumb/64/yandex.png</div><div class="icons_total">0</div></div><div class="icon little-shadow white " id="icon88395" style="width:512px; height:542px;" title="плюс добавить прибавить"><div class="icon-image" style="width:512px; height:542px;"><img src="https://icons8.com/iconizer/files/free_android_icon_set/orig/206113825289482096.png" title="плюс добавить прибавить" alt="плюс добавить прибавить" width="32" height="32" /></div><a class="collection_link" href="/iconizer/ru/search/1/collection:free_android_icon_set">Вся коллекция</a><div class="type"></div><div class="size">0</div><div class="orig_src">https://icons8.com/iconizer/files/free_android_icon_set/orig/206113825289482096.png</div><div class="cart_src">https://icons8.com/iconizer/files/free_android_icon_set/orig/206113825289482096.png</div><div class="icons_total">0</div></div>
+				<div class="icons_loader_fake"></div>
+				</div><td style="vertical-align:top; min-width:160px;"><div class="bsap_1251603"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ikonizer - адаптив -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6106215465773130"
+     data-ad-slot="5191598966"
+     data-ad-format="vertical"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});var allowAd=true;
+</script></div></td></tr></table></div></div></div></div></div>
+</div>
+<footer id="footer">
+    <div class="footer-inner">
+        <div class="copyright">
+            &copy; <a href="http://onlinegenerator.net"><span class="og-logo"></span> OnlineGenerator.net</a>.  2021  </div>
+        <div class="footer-links">
+            <ul class="footer-nav">
+                <li><a href="/iconizer/ru/terms-of-use">Условия пользования</a></li>
+                <li><a href="/iconizer/ru/users-manual">Руководство</a></li>
+                <li><a href="/iconizer/ru/contact">Отправить сообщение</a></li>
+            </ul>
+            <ul class="our-generators">
+                <li><a href="https://icons8.com/preloaders" title="AJAX loaders in GIF and APNG format">Preloaders.net</a></li>
+                <li><a href="https://icons8.com/cssload" title="AJAX loaders in CSS3 format">CSS Load.net</a></li>
+                <li><a href="https://icons8.com/animizer" title="Animated GIF and APNG tools">Animizer.net</a></li>
+                <li><a href="https://icons8.com/csstool" title="CSS object generator - gradient, border radius, text shadow, box shadow, transition, transform and more">CSSTool.net</a></li>
+                <li><a href="http://v2.iconizer.net">icons8.com/pr.Iconizer V2</a></li>                <!--li><a href="http://animizer.net">Animizer.net </a>(Скоро...)</li-->
+            </ul>
+        </div>
+        <div class="footer-social">
+            <ul class="follow">
+                <li><a href="http://facebook.com/preloadersnet" class="facebook" title="Facebook">Facebook</a></li>
+                <li><a href="http://twitter.com/preloadersnet" class="twitter" title="Twitter">Twitter</a></li>
+                <li><a href="http://vk.com/preloadersnet" class="vk" title="VK">VK</a></li>
+                <li>
+					<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=59ec3421899d1d001141cf00&product=inline-share-buttons"></script>
+					<div class="sharethis-inline-share-buttons"></div>
+				</li>
+				<li>
+					<img width="130" src="https://cdn.pixfuture.com/partner.jpg">
+				</li>
+            </ul>
+						<div style="margin-top:20px"><a href="/iconizer/en/search/No-license-filtering/0-512/533/ico" style="background:url(/iconizer/images/english.png) left top no-repeat transparent; font-size:14px; padding-left:30px; padding-top:2px">English version</a></div>
+        </div>
+    </div>
+</footer>
+<div class="og-footer"></div>
+<div id="overlay"></div>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+<script>
+(function() {
+  if (typeof _bsa !== 'undefined' && _bsa) {
+    _bsa.init('fancybar', 'CKYITKQ7', 'placement:icons8com');
+  }
+})();
+</script>
+</body>
+</html>
