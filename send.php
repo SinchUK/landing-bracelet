@@ -64,7 +64,6 @@ if ($_POST['act'] == 'order') {
                         </div>
                     </div>
                     <div class='modal-footer'>
-                        <button style='padding: 20px 10px;background-color: #976544'>На головну</button>
                     </div>
                 </div>
             </div>";
