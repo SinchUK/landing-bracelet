@@ -43,12 +43,13 @@ if ($_POST['act'] == 'order') {
                     height: 100%;'>
                 <!-- Modal content -->
                 <div style='
-                        width: 300px;    
+                        width: 600px;
+                        height: 70%;    
                         display: flex;
                         justify-content: center;
                         flex-direction: column;
                         align-items: center;
-                        font-size: 17px;
+                        font-size: 25px;
                         border: 1px solid black;
                         padding: 5px;
                         border-radius: 5px;
@@ -59,7 +60,7 @@ if ($_POST['act'] == 'order') {
                     </div>
                     <div>
                         <div>
-                            <img style='width: 200px;' src='./src/img/delivery.jpg' alt='#'>
+                            <img style='width: 200px;' src='./src/img/delivery.webp' alt='#'>
                             <p>Нажаль... товар не залишився у наявності. Ми повідомимо Вас за Вашим номером телефону, коли з'явиться.</p>
                         </div>
                     </div>

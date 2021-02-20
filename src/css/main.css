@@ -101,6 +101,7 @@ footer p {
 .section_1 {
   background-image: url(../img/section_1_bg.webp);
   height: 600px;
+  width:100%;
   background-repeat: no-repeat;
   background-size: 100%;
   background-position-y: center;
